@@ -1,0 +1,1 @@
+"""Battle SFX Creator package."""

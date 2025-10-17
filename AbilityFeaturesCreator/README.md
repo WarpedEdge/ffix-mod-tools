@@ -1,4 +1,4 @@
-# Ability Features Tool
+# Ability Features Creator
 
 A cross-platform Qt utility (built with PySide6) for browsing, templating and
 editing `AbilityFeatures.txt` files used by Memoria-based Final Fantasy IX mods.
